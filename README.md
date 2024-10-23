@@ -15,8 +15,14 @@ Created with laravel framework
 <li>un-comment --> extension=zip </li>
 <li>un-comment --> extension=fileinfo</li>
 <li>un-comment --> extension=mysqli</li>
+<li>Install command laravel new --website_name--/li>
 
 </ul>
 
 # mobile
 Using Flutter  3.22.3
+<ul> 
+  <li>Install  command : flutter create my_app</li>
+  <li>cd first_app</li>
+<li>flutter run</li>
+</ul>
